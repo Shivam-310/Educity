@@ -1,9 +1,9 @@
 import React from 'react'
-import ''
+import './Hero.css'
 
 const Hero = () => {
   return (
-    <div>
+    <div className='hero'>
       
     </div>
   )
